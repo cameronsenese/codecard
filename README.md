@@ -11,7 +11,7 @@ There are loads of things that you can do with your Code Card - here's a list of
   Use the mobile app to create different template layouts, save them to the Oracle Cloud, and then retreive & apply them to your card's display with the press of a button. Ths is the quickest way to get up and running.  
   The Code Card mobile app is designed and built using the [Oracle Application Express (APEX)](https://apex.oracle.com/en/) low-code development platform.
 
-  Click the link above, and follow the 'No Code' instructions.
+  Click [this link](https://developer.oracle.com/codecard), and follow the 'No Code' instructions.
 
 - **[Configuration Settings](/terminal/)**  
   Manage your Code Card configuration via serial connection over USB. Settings such as Wi-Fi SSID & Password can be managed via serial connection using the Code Cards integrated CLI.
